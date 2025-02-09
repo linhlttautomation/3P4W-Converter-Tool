@@ -1,21 +1,21 @@
-
 # 3P4W Converter Tool
 
 ## 📂 3P4W Converter Tool
 ![3P4W Converter Tool](https://github.com/linhlttautomation/ACBatteryDualCore/blob/master/3P4W%20Converter%20Tool.png)
+
 ### 🔹 Introduction
 
-This tool allows users to input parameters to calculate essential values for programming and experimenting with the **3P4W (Three-Phase Four-Wire) converter** in an **AC Battery** system.
+The **3P4W Converter Tool** enables users to input key parameters for calculating essential values required in the programming and experimentation of a **Three-Phase Four-Wire (3P4W) converter** within an **AC Battery** system. This tool streamlines the process of system analysis, aiding in both simulation and real-world implementation.
 
 ### 🔹 How to Use
 
-1. **Enter Parameters**: Fill in the values in the green input fields.
-2. **Calculation**: The system will automatically process and display the results.
-3. **Application**: Use the calculated values for programming and testing the 3P4W converter.
+1. **Input Parameters**: Enter the required values in the designated fields.
+2. **Automated Calculations**: The system processes the data and provides instant results.
+3. **Application**: Utilize the calculated values for programming, testing, and optimizing the 3P4W converter.
 
-📌 *This tool helps verify, simulate, and optimize the system before real-world implementation.*
+📌 *Designed to facilitate accurate analysis, simulation, and optimization before deployment in practical applications.*
 
 ---
 
-🔥 **Contact & Contributions**  
-If you have any suggestions or feedback, feel free to open an issue or submit a pull request on GitHub.
+🔥 **Get Involved & Contribute**  
+We welcome feedback and contributions! If you have suggestions or improvements, feel free to open an issue or submit a pull request on GitHub.
